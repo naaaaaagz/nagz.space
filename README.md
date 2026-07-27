@@ -1,2 +1,0 @@
-# nagz.space
-nagz.space
