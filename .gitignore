@@ -1,0 +1,10 @@
+# Local HTML version snapshots
+/index_v*.html
+
+# Local agent notes and settings
+/.agents/
+/.codex/
+
+# Local artwork source files
+/nsinsta.png
+/nsinsta.psd
